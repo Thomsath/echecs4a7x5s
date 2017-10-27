@@ -1,0 +1,248 @@
+# depslib dependency file v1.0
+1474023466 source:c:\users\rodrigues\documents\iut - bordeaux\prog objet\echecs\echiquier.cxx
+	<iostream>
+	"Echiquier.h"
+
+1505991620 .h"
+
+1505988097 c:\users\rodrigues\documents\iut - bordeaux\prog objet\echecs\echiquier.h
+	"Piece.h"
+
+1385320478 
+
+1505991648 c:\users\rodrigues\documents\iut - bordeaux\prog objet\echecs\piece.h
+
+1505991476 source:c:\users\rodrigues\documents\iut - bordeaux\prog objet\echecs\joueur.cxx
+	<iostream>
+	"Joueur.h"
+	"Pion.h"
+	"Fou.h"
+	"Reine.h"
+	"Tour.h"
+	"Roi.h"
+
+1505988103 c:\users\rodrigues\documents\iut - bordeaux\prog objet\echecs\joueur.h
+	"Piece.h"
+	"Echiquier.h"
+
+1505989991 c:\users\rodrigues\documents\iut - bordeaux\prog objet\echecs\pion.h
+	"Piece.h"
+	"Echiquier.h"
+
+1385320478 source:c:\users\rodrigues\documents\iut - bordeaux\prog objet\echecs\main.cpp
+	<iostream>
+
+1505991489 source:c:\users\rodrigues\documents\iut - bordeaux\prog objet\echecs\piece.cxx
+	"Piece.h"
+	<iostream>
+	"Echiquier.h"
+	"Pion.h"
+	"Fou.h"
+	"Reine.h"
+
+1505990063 source:c:\users\rodrigues\documents\iut - bordeaux\prog objet\echecs\pion.cxx
+	"Pion.h"
+	<iostream>
+	"Echiquier.h"
+	"Piece.h"
+
+1505990749 source:c:\users\rodrigues\documents\iut - bordeaux\prog objet\echecs\testpiece.cxx
+	<iostream>
+	<assert.h>
+	"Piece.h"
+	"Joueur.h"
+	"Echiquier.h"
+	"Pion.h"
+	"Fou.h"
+	"Reine.h"
+
+1505990965 source:c:\users\rodrigues\documents\iut - bordeaux\prog objet\echecs\fou.cxx
+	"Pion.h"
+	<iostream>
+	"Echiquier.h"
+	"Fou.h"
+	"Piece.h"
+	"Reine.h"
+
+1505991071 c:\users\rodrigues\documents\iut - bordeaux\prog objet\echecs\fou.h
+	"Piece.h"
+	"Echiquier.h"
+
+1505991349 c:\users\rodrigues\documents\iut - bordeaux\prog objet\echecs\reine.h
+	"Piece.h"
+	"Echiquier.h"
+	"Reine.h"
+	"Fou.h"
+	"Tour.h"
+
+1505991009 source:c:\users\rodrigues\documents\iut - bordeaux\prog objet\echecs\reine.cxx
+	<iostream>
+	"Echiquier.h"
+	"Piece.h"
+	"Reine.h"
+
+1505991285 c:\users\rodrigues\documents\iut - bordeaux\prog objet\echecs\tour.h
+	"Piece.h"
+	"Echiquier.h"
+
+1505991288 source:c:\users\rodrigues\documents\iut - bordeaux\prog objet\echecs\tour.cxx
+	"Pion.h"
+	<iostream>
+	"Echiquier.h"
+	"Piece.h"
+	"Tour.h"
+
+1505991464 c:\users\rodrigues\documents\iut - bordeaux\prog objet\echecs\roi.h
+	"Piece.h"
+	"Echiquier.h"
+
+1505991522 source:c:\users\rodrigues\documents\iut - bordeaux\prog objet\echecs\roi.cxx
+	"Pion.h"
+	<iostream>
+	"Echiquier.h"
+	"Piece.h"
+	"Roi.h"
+
+1505991640 source:c:\users\rodrigues\documents\iut - bordeaux\prog objet\echecs\cavalier.cxx
+	"Pion.h"
+	<iostream>
+	"Echiquier.h"
+	"Piece.h"
+	"Cavalier.h"
+
+1505991640 h"
+
+1505991620 c:\users\rodrigues\documents\iut - bordeaux\prog objet\echecs\cavalier.h
+	"Piece.h"
+	"Echiquier.h"
+
+1509002687 source:/mnt/roon/users/dgiudice/C++/Echecs/Cavalier.cxx
+	"Pion.h"
+	<iostream>
+	"Echiquier.h"
+	"Piece.h"
+	"Cavalier.h"
+	<cmath>
+
+1505986392 /mnt/roon/users/dgiudice/C++/Echecs/Pion.h
+	"Piece.h"
+	"Echiquier.h"
+
+1506408458 /mnt/roon/users/dgiudice/C++/Echecs/Piece.h
+
+1509007059 /mnt/roon/users/dgiudice/C++/Echecs/Echiquier.h
+	"Piece.h"
+
+1505988022 /mnt/roon/users/dgiudice/C++/Echecs/Cavalier.h
+	"Piece.h"
+	"Echiquier.h"
+
+1509002697 source:/mnt/roon/users/dgiudice/C++/Echecs/Echiquier.cxx
+	<iostream>
+	"Echiquier.h"
+
+1509002613 source:/mnt/roon/users/dgiudice/C++/Echecs/Fou.cxx
+	"Pion.h"
+	<iostream>
+	"Echiquier.h"
+	"Fou.h"
+	"Piece.h"
+	"Reine.h"
+	<cmath>
+
+1505987472 /mnt/roon/users/dgiudice/C++/Echecs/Fou.h
+	"Piece.h"
+	"Echiquier.h"
+
+1505987750 /mnt/roon/users/dgiudice/C++/Echecs/Reine.h
+	"Piece.h"
+	"Echiquier.h"
+	"Reine.h"
+	"Fou.h"
+	"Tour.h"
+
+1505987686 /mnt/roon/users/dgiudice/C++/Echecs/Tour.h
+	"Piece.h"
+	"Echiquier.h"
+
+1509102660 source:/mnt/roon/users/dgiudice/C++/Echecs/Pion.cxx
+	"Pion.h"
+	<iostream>
+	"Echiquier.h"
+	"Piece.h"
+	<cmath>
+
+1509002667 source:/mnt/roon/users/dgiudice/C++/Echecs/Reine.cxx
+	<iostream>
+	"Echiquier.h"
+	"Piece.h"
+	"Reine.h"
+
+1509002627 source:/mnt/roon/users/dgiudice/C++/Echecs/Roi.cxx
+	"Pion.h"
+	<iostream>
+	"Echiquier.h"
+	"Piece.h"
+	"Roi.h"
+	<cmath>
+
+1505987866 /mnt/roon/users/dgiudice/C++/Echecs/Roi.h
+	"Piece.h"
+	"Echiquier.h"
+
+1509008763 source:/mnt/roon/users/dgiudice/C++/Echecs/testPiece.cxx
+	<iostream>
+	<assert.h>
+	"Piece.h"
+	"Joueur.h"
+	"Echiquier.h"
+	"Pion.h"
+	"Fou.h"
+	"Reine.h"
+	"JoueurBlanc.h"
+	"JoueurNoir.h"
+	"Cavalier.h"
+
+1509002792 /mnt/roon/users/dgiudice/C++/Echecs/Joueur.h
+	"Piece.h"
+	"Echiquier.h"
+
+1509002645 source:/mnt/roon/users/dgiudice/C++/Echecs/Tour.cxx
+	"Pion.h"
+	<iostream>
+	"Echiquier.h"
+	"Piece.h"
+	"Tour.h"
+
+1509003882 source:/mnt/roon/users/dgiudice/C++/Echecs/Joueur.cxx
+	<iostream>
+	"Joueur.h"
+	"Pion.h"
+	"Fou.h"
+	"Reine.h"
+	"Tour.h"
+	"Roi.h"
+	"Cavalier.h"
+
+1509002657 source:/mnt/roon/users/dgiudice/C++/Echecs/Piece.cxx
+	"Piece.h"
+	<iostream>
+	"Echiquier.h"
+	"Pion.h"
+	"Fou.h"
+	"Reine.h"
+
+1509002722 source:/mnt/roon/users/dgiudice/C++/Echecs/JoueurBlanc.cxx
+	<iostream>
+	"JoueurBlanc.h"
+
+1506415698 /mnt/roon/users/dgiudice/C++/Echecs/JoueurBlanc.h
+	"Joueur.h"
+
+1509002714 source:/mnt/roon/users/dgiudice/C++/Echecs/JoueurNoir.cxx
+	<iostream>
+	"JoueurNoir.h"
+
+1506415747 /mnt/roon/users/dgiudice/C++/Echecs/JoueurNoir.h
+	"Joueur.h"
+
